@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "h3tWKVC7Upg=",
+  "success": true,
+  "projectFilePath": "/Users/echo/Documents/JINGSHU/Antra/Antra_Web/WEBAPI/DEMO2/DEMO2/DEMO2.csproj",
+  "expectedPackageFiles": [
+    "/Users/echo/.nuget/packages/microsoft.aspnetcore.openapi/9.0.5/microsoft.aspnetcore.openapi.9.0.5.nupkg.sha512",
+    "/Users/echo/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
