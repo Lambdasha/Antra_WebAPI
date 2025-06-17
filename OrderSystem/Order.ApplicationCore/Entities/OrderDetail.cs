@@ -1,5 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
+using System.Text.Json.Serialization;
 
 namespace Order.ApplicationCore.Entities;
 
@@ -23,5 +24,6 @@ public class OrderDetail
     public decimal Discount { get; set; }
 
     // ---- navigation ----
+    [JsonIgnore]
     public Order? Order { get; set; }
 }
