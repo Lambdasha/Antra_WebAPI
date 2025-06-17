@@ -1,0 +1,12 @@
+/Users/echo/Documents/JINGSHU/Antra/Antra_Web/WEBAPI/OrderSystem/Order.ApplicationCore/bin/Debug/net9.0/Order.ApplicationCore.deps.json
+/Users/echo/Documents/JINGSHU/Antra/Antra_Web/WEBAPI/OrderSystem/Order.ApplicationCore/bin/Debug/net9.0/Order.ApplicationCore.dll
+/Users/echo/Documents/JINGSHU/Antra/Antra_Web/WEBAPI/OrderSystem/Order.ApplicationCore/bin/Debug/net9.0/Order.ApplicationCore.pdb
+/Users/echo/Documents/JINGSHU/Antra/Antra_Web/WEBAPI/OrderSystem/Order.ApplicationCore/obj/Debug/net9.0/Order.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/echo/Documents/JINGSHU/Antra/Antra_Web/WEBAPI/OrderSystem/Order.ApplicationCore/obj/Debug/net9.0/Order.ApplicationCore.AssemblyInfoInputs.cache
+/Users/echo/Documents/JINGSHU/Antra/Antra_Web/WEBAPI/OrderSystem/Order.ApplicationCore/obj/Debug/net9.0/Order.ApplicationCore.AssemblyInfo.cs
+/Users/echo/Documents/JINGSHU/Antra/Antra_Web/WEBAPI/OrderSystem/Order.ApplicationCore/obj/Debug/net9.0/Order.ApplicationCore.csproj.CoreCompileInputs.cache
+/Users/echo/Documents/JINGSHU/Antra/Antra_Web/WEBAPI/OrderSystem/Order.ApplicationCore/obj/Debug/net9.0/Order.ApplicationCore.sourcelink.json
+/Users/echo/Documents/JINGSHU/Antra/Antra_Web/WEBAPI/OrderSystem/Order.ApplicationCore/obj/Debug/net9.0/Order.ApplicationCore.dll
+/Users/echo/Documents/JINGSHU/Antra/Antra_Web/WEBAPI/OrderSystem/Order.ApplicationCore/obj/Debug/net9.0/refint/Order.ApplicationCore.dll
+/Users/echo/Documents/JINGSHU/Antra/Antra_Web/WEBAPI/OrderSystem/Order.ApplicationCore/obj/Debug/net9.0/Order.ApplicationCore.pdb
+/Users/echo/Documents/JINGSHU/Antra/Antra_Web/WEBAPI/OrderSystem/Order.ApplicationCore/obj/Debug/net9.0/ref/Order.ApplicationCore.dll
